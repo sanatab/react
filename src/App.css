@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(24, 24, 24);
+}
+.App {
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  
+}
+
+img {
+  width: 45px;
+}
+table {
+  width: 80%;
+  border-collapse: collapse;
+}
+th {
+  padding: 20px 0;
+  border-bottom: 2px solid;
+}
+td {
+  border-bottom: 2px solid;
+}
